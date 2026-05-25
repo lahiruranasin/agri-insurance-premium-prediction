@@ -1,0 +1,6 @@
+{
+  "name": "AAIB Agricultural Insurance Dashboard",
+  "description": "A data-driven agricultural insurance premium prediction system with interactive risk mapping and premium calculation for the Agricultural and Agrarian Insurance Board (AAIB).",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
